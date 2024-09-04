@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InverterStringApp", "InverterStringApp.csproj", "{93D837F4-83EF-43AA-BF5E-84327D3D5D86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InverterStringApp", "InverterStringApp.csproj", "{D8204816-E021-496C-9136-5EC917277D7D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{93D837F4-83EF-43AA-BF5E-84327D3D5D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{93D837F4-83EF-43AA-BF5E-84327D3D5D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{93D837F4-83EF-43AA-BF5E-84327D3D5D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{93D837F4-83EF-43AA-BF5E-84327D3D5D86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8204816-E021-496C-9136-5EC917277D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8204816-E021-496C-9136-5EC917277D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8204816-E021-496C-9136-5EC917277D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8204816-E021-496C-9136-5EC917277D7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
